@@ -16,4 +16,9 @@ Frontend: HTML, CSS, JavaScript
 Backend: Python 
 
 API: OpenWeatherMap API
+# 2. Install Dependencies
+This project requires Flask and requests. Install them using pip:
 
+Bash
+
+pip install Flask requests
